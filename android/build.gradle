@@ -16,6 +16,6 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "cn.aigestudio.wheelpicker:WheelPicker:7ea2c259adb95068461ae5098dbec0c291270519"
+    implementation "com.github.LovebugLLC:WheelPicker:main"
     implementation 'com.facebook.react:react-native:+'
 }
